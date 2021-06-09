@@ -1,0 +1,19 @@
+#include <iostream> 
+using namespace std; 
+ 
+int main() { 
+    int n; 
+    int x;
+    cin >> n; 
+    x=n;
+    while (x>=1)
+    {
+    if (x % 5 == 0)
+    {cout << x << "\nBeep\n";}
+    else {cout << x << endl;}
+    x--;
+    } 
+         
+     
+    return 0; 
+}
