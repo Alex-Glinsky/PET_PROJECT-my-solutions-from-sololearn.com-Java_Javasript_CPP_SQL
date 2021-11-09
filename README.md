@@ -77,3 +77,16 @@ Cheese cake   370
 Write a query to sort the cakes by calorie count and select the first 3 cakes from the list to offer the customer.
 Try to combine ORDER BY and LIMIT keywords.
 
+2.Apartments
+You want to rent an apartment and have the following table named Apartments:
+
+id    city    adress    price     status
+1     Las Vegas  732 Hall Street 1000 Not rented
+2 Marlboro    985 Huntz Lane          800 Not rented
+3 Moretown    3757 Wines Lane         700 Not rented
+4 Owatonna    314 Pritchard Court     500 Rented
+5 Grayslake   3234 Cunningham Court   600 Rented
+6 Great Neck  19227 Romines Mill Road 900 Not rented
+
+Write a query to output the apartments whose prices are greater than the average and are also not rented, sorted by the 'Price' column.
+Recall the AVG keyword.
