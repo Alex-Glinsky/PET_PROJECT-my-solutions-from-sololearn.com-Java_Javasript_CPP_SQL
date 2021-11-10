@@ -1,0 +1,8 @@
+/* name - "Slim", type - "Giraffe", country_id - 1 */
+insert into animals
+values ('Slim', 'Giraffe', 1);
+
+select Animals.name, Animals.type, Countries.country
+from animals, countries
+WHERE animals.country_id = Countries.id
+ORDER by Countries.country;

@@ -1,0 +1,5 @@
+select name, calories
+from cakes
+
+ORDER BY calories
+limit 3;
