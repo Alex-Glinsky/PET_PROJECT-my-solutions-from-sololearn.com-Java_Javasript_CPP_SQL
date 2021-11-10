@@ -1,6 +1,7 @@
 # Solutions from MOOC sololearn.com 
 Java-Javasript-CPP-SQL
-C# Tasks
+
+Javascript Tasks
 
 1.Trip Planner
 You need to plan a road trip. You are traveling at an average speed of 40 miles an hour.
