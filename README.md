@@ -1,4 +1,5 @@
 # Solutions from MOOC sololearn.com 
+THE SOLOLEARN COMPANY HOLDS COPYRIGHTS FOR TRAINING MATERIALS.
 Java-Javasript-CPP-SQL
 
 Javascript Tasks
